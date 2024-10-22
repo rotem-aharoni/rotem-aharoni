@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rotem Aharoni</h1>
-<h3 align="center">A seconde year CS student in The Hebrew University of Jerusalem</h3>
+<h3 align="center">A second year CS student in The Hebrew University of Jerusalem</h3>
 
 - 🌱 I’m currently learning **OS, NLP and ML**
 
